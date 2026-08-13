@@ -24,17 +24,11 @@ Main Problem: The big problem in this scenario is that there is too much happeni
 Step 2: Identify three to four Sub-Problems
 Please list possible sub-problems:
 
-1. ___________________________________________________________
-_____________________________________________________________
+1. There is no proper system that the cashiers can use, to compute all the orders, making things take way longer.
 
-2. ___________________________________________________________
-_____________________________________________________________
+2. There is a lack of information of what the food being served is, making student's take longer to decide
 
-3. ___________________________________________________________
-_____________________________________________________________
-
-4. ___________________________________________________________
-_____________________________________________________________
+3. No one numbers the units of food that are available, it is harder track which foods are running out, if you do not divide it into countable units first
 
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
