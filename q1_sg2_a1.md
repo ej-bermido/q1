@@ -53,7 +53,7 @@ Example Solution: Enter total amount of units that are cooked, per sale subtract
 Sub-Problem 2:
 
 START
-1. put display menu at start of line
+1. display menu at start of line
 2. put signs on each food
 3. customer enters line
 4. customer checks menu
