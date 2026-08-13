@@ -33,10 +33,19 @@ Please list possible sub-problems:
 Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
 
-Sub-Problem
+1.)
+Sub-Problem: There is no proper system that the cashiers can use, to compute all the orders, making things take way longer.
+CT Skill: Automation
+Example Solution:
 
-CT Skill
+2.)
+Sub-Problem: There is a lack of information of what the food being served is, making student's take longer to decide
+CT Skill: Abstraction
+Example Solution:
 
-Example Solution
+3.)
+Sub-Problem: No one numbers the units of food that are available, it is harder track which foods are running out, if you do not divide it into countable units first
+CT Skill: Data Practices
+Example Solution:
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
