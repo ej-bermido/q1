@@ -56,7 +56,8 @@ START
 1. put display menu at start of line
 2. put signs on each food
 3. customer enters line
-4. customer picks from menu
-5. tells order to cashier
+4. customer checks menu
+5. customer picks order from food selection
+6. customer tells order to cashier
 
-STOP
+END
