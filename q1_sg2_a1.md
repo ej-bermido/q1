@@ -51,10 +51,12 @@ Example Solution: Enter total amount of units that are cooked, per sale subtract
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 
 Sub-Problem 2:
+
 START
 1. put display menu at start of line
 2. put signs on each food
 3. customer enters line
 4. customer picks from menu
 5. tells order to cashier
+
 STOP
