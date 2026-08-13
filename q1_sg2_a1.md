@@ -35,7 +35,7 @@ For each sub-problem, apply CT skills:
 
 1.)
 Sub-Problem: There is no proper system that the cashiers can use, to compute all the orders, making things take way longer.
-CT Skill: Automation
+CT Skill: Algorithm Design
 Example Solution:
 
 2.)
@@ -45,7 +45,7 @@ Example Solution:
 
 3.)
 Sub-Problem: No one numbers the units of food that are available, it is harder track which foods are running out, if you do not divide it into countable units first
-CT Skill: Data Practices
+CT Skill: Algorithm Design
 Example Solution:
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
