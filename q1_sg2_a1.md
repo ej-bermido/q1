@@ -34,14 +34,14 @@ Step 3: Define Computational Thinking Approaches
 For each sub-problem, apply CT skills:
 
 1.)
-Sub-Problem: There is no proper system that the cashiers can use, to compute all the orders, making things take way longer.
+Sub-Problem: There is no proper system that the cashiers can use to compute all the orders, making things take way longer.
 CT Skill: Algorithm Design
 Example Solution: Enter total amount of items, enter amount of payment given to cashier, display change.
 
 2.)
 Sub-Problem: There is a lack of information of what the food being served is, making student's take longer to decide
 CT Skill: Abstraction
-Example Solution: Display menu per meal. Do not include unnecesary food items that are not in stock.
+Example Solution: Display menu per meal. Do not include unnecessary food items that are not in stock.
 
 3.)
 Sub-Problem: No one numbers the units of food that are available, it is harder track which foods are running out, if you do not divide it into countable units first
@@ -49,3 +49,12 @@ CT Skill: Algorithm Design
 Example Solution: Enter total amount of units that are cooked, per sale subtract the corresponding amount of food from the total amount of food units. 
 
  Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
+
+Sub-Problem 2:
+START
+1. put display menu at start of line
+2. put signs on each food
+3. customer enters line
+4. customer picks from menu
+5. tells order to cashier
+STOP
